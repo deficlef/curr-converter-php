@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<rates>
+    <timestamp>place holder</timestamp>
+    <currency iso="4217" code="CAD" rate="council">
+        <name>Canada Dollar</name>
+        <loc code="">canada</loc>
+    </currency>
+    <currency iso="4217" code="CHF" rate="council">
+        <name>Swiss Franc</name>
+        <loc code="">Switzerland</loc>
+        <loc code="LI">Liechtenstein</loc>
+    </currency>
+    <currency iso="4217" code="CNY" rate="council">
+        <name>Chinese Yuan Renminbi</name>
+        <loc>China</loc>
+    </currency>
+    <currency iso="4217" code="DKK" rate="council">
+        <name>Danish Krone</name>
+        <loc code="">Denmark</loc>
+        <loc code="FO">Faroe Islands</loc>
+        <loc code="GL">Greenland</loc>
+    </currency>
+    <currency iso="4217" code="EUR" rate="council">
+        <name>Euro</name>
+        <loc code="">Akrotiri and Dhekelia</loc>
+        <loc code="AD">Andorra</loc>
+        <loc code="AT">Austria</loc>
+        <loc code="BE">Belgium</loc>
+        <loc code="CY">Cyprus</loc>
+        <loc code="EE">Estonia</loc>
+        <loc code="FI">Finland</loc>
+        <loc code="FR">France</loc>
+        <loc code="DE">Germany</loc>
+        <loc code="GR">Greece</loc>
+        <loc code="GP">Guadeloupe</loc>
+        <loc code="IE">Ireland</loc>
+        <loc code="IT">Italy</loc>
+        <loc code="">Kosovo</loc>
+        <loc code="LV">Latvia</loc>
+        <loc code="LT">Lithuania</loc>
+        <loc code="LU">Luxembourg</loc>
+        <loc code="MT">Malta</loc>
+        <loc code="MQ">Martinique</loc>
+        <loc code="YT">Mayotte</loc>
+        <loc code="MC">Monaco</loc>
+        <loc code="ME">Montenegro</loc>
+        <loc code="NL">Netherlands</loc>
+        <loc code="PT">Portugal</loc>
+        <loc code="RE">Réunion</loc>
+        <loc code="BL">Saint Barthélemy</loc>
+        <loc code="PM">Saint Pierre and Miquelon</loc>
+        <loc code="SM">San Marino</loc>
+        <loc code="SK">Slovakia</loc>
+        <loc code="SI">Slovenia</loc>
+        <loc code="ES">Spain</loc>
+        <loc code="VA">Vatican City</loc>
+    </currency>
+    <currency iso="4217" code="GBP" rate="1">
+        <name>Pound Sterling (reference currency)</name>
+        <loc code="GB">United Kingdom</loc>
+        <loc code="IM">the Isle of Man</loc>
+        <loc code="JE">Jersey</loc>
+        <loc code="GG">Guernsey</loc>
+        <loc code="GS">South Georgia and the South Sandwich Islands</loc>
+        <loc code="IO">British Indian Ocean Territory</loc>
+        <loc code="SH-TA">Tristan da Cunha</loc>
+        <loc code="GB">British Antarctic Territory</loc>
+    </currency>
+    <currency iso="4217" code="HKD" rate="council">
+        <name>Hong Kong Dollar</name>
+        <loc code="">Hong Kong</loc>
+        <loc code="MO">Macao</loc>
+    </currency>
+    <currency iso="4217" code="HUF" rate="council">
+        <name>Hungarian Forint</name>
+        <loc code="MO">Hungary</loc>
+    </currency>
+    <currency iso="4217" code="INR" rate="council">
+        <name>Indian Rupee</name>
+        <loc code="">India</loc>
+        <loc code="">Bhutan</loc>
+        <loc code="">Nepal</loc>
+        <loc code="">Zimbabwe</loc>
+    </currency>
+    <currency iso="4217" code="JPY" rate="council">
+        <name>Japanese Yen</name>
+        <loc code="">Japan</loc>
+    </currency>
+    <currency iso="4217" code="MXN" rate="council">
+        <name>Mexican Peso</name>
+        <loc code="">Mexico</loc>
+    </currency>
+    <currency iso="4217" code="MYR" rate="council">
+        <name>Malaysian Ringgit</name>
+        <loc code="">Malaysia</loc>
+    </currency>
+    <currency iso="4217" code="NOK" rate="council">
+        <name>Norwegian Krone</name>
+        <loc code="">Norway</loc>
+        <loc code="SJ">Svalbard and Jan Mayen</loc>
+        <loc code="BV">Bouvet Island</loc>
+        <loc code="">Queen Maud Land</loc>
+        <loc code="">Peter I Island</loc>
+    </currency>
+    <currency iso="4217" code="NZD" rate="council">
+        <name>New Zealand Dollar</name>
+        <loc code="">New Zealand</loc>
+        <loc code="CK">Cook Islands</loc>
+        <loc code="NU">Niue</loc>
+        <loc code="PN">Pitcairn Islands</loc>
+        <loc code="TK">Tokelau</loc>
+        <loc code="">Ross Dependency</loc>
+    </currency>
+    <currency iso="4217" code="PHP" rate="council">
+        <name>Philippine Peso</name>
+        <loc code="">Philippines</loc>
+    </currency>
+    <currency iso="4217" code="RUB" rate="council">
+        <name>Russian Ruble</name>
+        <loc code="">Russia</loc>
+        <loc code="GE-AB">Abkhazia</loc>
+        <loc code="">South Ossetia</loc>
+        <loc code="">Crimea</loc>
+    </currency>
+    <currency iso="4217" code="SEK" rate="council">
+        <name>Swedish Krona</name>
+        <loc code="">Sweden</loc>
+    </currency>
+    <currency iso="4217" code="SGD" rate="council">
+        <name>Singapore Dollar</name>
+        <loc code="">Singapore</loc>
+        <loc code="BN">auxiliary in Brunei</loc>
+    </currency>
+    <currency iso="4217" code="THB" rate="council">
+        <name>Thai Baht</name>
+        <loc code="">Thailand</loc>
+        <loc code="">Cambodia</loc>
+        <loc code="">Myanmar</loc>
+        <loc code="">Laos</loc>
+    </currency>
+    <currency iso="4217" code="TRY" rate="council">
+        <name>Turkish Lira</name>
+        <loc code="">Turkey</loc>
+        <loc code="">Northern Cyprus</loc>
+    </currency>
+    <currency iso="4217" code="USD" rate="council">
+        <name>US Dollar</name>
+        <loc code="">United States</loc>
+        <loc code="AS">American Samoa</loc>
+        <loc code="BB">Barbados</loc>
+        <loc code="BM">Bermuda</loc>
+        <loc code="IO">British Indian Ocean Territory</loc>
+        <loc code="VG">British Virgin Islands</loc>
+        <loc code="BQ">Caribbean Netherlands</loc>
+        <loc code="EC">Ecuador</loc>
+        <loc code="SV">El Salvador</loc>
+        <loc code="GU">Guam</loc>
+        <loc code="HT">Haiti</loc>
+        <loc code="MH">Marshall Islands</loc>
+        <loc code="FM">Federated States of Micronesia</loc>
+        <loc code="MP">Northern Mariana Islands</loc>
+        <loc code="PW">Palau</loc>
+        <loc code="PA">Panama</loc>
+        <loc code="PR">Puerto Rico</loc>
+        <loc code="TL">Timor-Leste</loc>
+        <loc code="TC">Turks and Caicos Islands</loc>
+        <loc code="VI">U.S. Virgin Islands</loc>
+        <loc code="ZW">Zimbabwe</loc>
+    </currency>
+    <currency iso="4217" code="ZAR" rate="council">
+        <name>South African Rand</name>
+        <loc code="ZW">South Africa</loc>
+    </currency>
+</rates>
